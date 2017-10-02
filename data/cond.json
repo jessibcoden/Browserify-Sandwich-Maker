@@ -1,0 +1,29 @@
+{
+	"cond":[
+		{
+			"category": "cond",
+			"topping": "Mayo",
+			"price": 0.25
+		},
+		{
+			"category": "cond",
+			"topping": "Mustard",
+			"price": 0.25
+		},
+		{
+			"category": "cond",
+			"topping": "Honey Mustard",
+			"price": 0.25
+		},
+		{
+			"category": "cond",
+			"topping": "Cream Cheese",
+			"price": 0.75
+		},
+		{
+			"category": "cond",
+			"topping": "Oil & Vinegar",
+			"price": 0.50
+		}
+	]
+}

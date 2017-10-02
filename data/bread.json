@@ -1,0 +1,29 @@
+{
+	"bread":[
+		{
+			"category": "bread",
+			"topping": "Marble Rye",
+			"price": 0.90
+		},
+		{
+			"category": "bread",
+			"topping": "Sourdough",
+			"price": 0.90
+		},
+		{
+			"category": "bread",
+			"topping": "Wheat",
+			"price": 0.70
+		},
+		{
+			"category": "bread",
+			"topping": "Sub Roll",
+			"price": 0.70
+		},
+		{
+			"category": "bread",
+			"topping": "Tortilla Wrap",
+			"price": 0.60
+		}
+	]
+}

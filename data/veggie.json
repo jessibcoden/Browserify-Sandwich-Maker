@@ -1,0 +1,29 @@
+{
+	"veggie":[
+		{
+			"category": "veggie",
+			"topping": "Lettuce",
+			"price": 0.25
+		},
+		{
+			"category": "veggie",
+			"topping": "Tomato",
+			"price": 0.25
+		},
+		{
+			"category": "veggie",
+			"topping": "Onion",
+			"price": 0.25
+		},
+		{
+			"category": "veggie",
+			"topping": "Pickles",
+			"price": 0.25
+		},
+		{
+			"category": "veggie",
+			"topping": "Spinach",
+			"price": 0.50
+		}
+	]
+}
