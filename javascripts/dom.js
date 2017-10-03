@@ -6,7 +6,7 @@ const buildDomstring = (toppings) => {
 		let toppingsArray = toppings[category]; 
 
 		for(let i = 0; i < toppingsArray.length; i++){
-			console.log("dom loop", toppingsArray[i]);
+			// console.log("dom loop", toppingsArray[i]);
 			domString += `<input type="checkbox" class="checkbox" name="${toppingsArray[i].topping}" value="${toppingsArray[i].price}">${toppingsArray[i].topping}`;
 		}
 
